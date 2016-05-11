@@ -1,9 +1,9 @@
 {
-  "name": "angular2-meteor-accounts-ui",
+  "name": "tux-in:angular2-meteor-accounts-ui",
   "version": "0.3.5",
-  "repository": "https://github.com/Urigo/angular2-meteor-accounts-ui/",
-  "description": "Angular 2.0 and Meteor - the perfect stack http://www.angular-meteor.com/",
-  "author": "Angular2-Meteor (https://github.com/Urigo/angular2-meteor)",
+  "repository": "https://github.com/kfirufk/angular2-meteor-accounts-ui",
+  "description": "a fork of https://github.com/Urigo/angular2-meteor",
+  "author": "Kfir Ozer (https://github.com/kfirufk)",
   "license": "MIT",
   "scripts": {
     "install": "node install.js"
