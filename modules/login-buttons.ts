@@ -1,5 +1,5 @@
-import {Component, NgZone} from 'angular2/core';
-import {NgIf, NgFor} from 'angular2/common';
+import {Component, NgZone} from '@angular/core';
+import {NgIf, NgFor} from '@angular/common';
 import {Accounts} from 'meteor/accounts-base';
 import {Tracker} from 'meteor/tracker';
 

@@ -1,7 +1,7 @@
 import {TypeDecorator} from '@angular/core';
 import {makeDecorator} from '@angular/core/src/util/decorators';
-import {ComponentInstruction} from '@angular/router';
-import {CanActivate} from '@angular/router';
+import {ComponentInstruction} from '@angular/router-deprecated';
+import {CanActivate} from '@angular/router-deprecated';
 
 class InjectUserAnnotation {
   constructor(public propName: string = 'user') {}
